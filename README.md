@@ -1,9 +1,9 @@
-#Data Visualization Dashboard using Streamlit
+##Data Visualization Dashboard using Streamlit
 
-Overview
+#Overview
 This repository contains a data visualization dashboard built using Streamlit. The dashboard allows users to explore and visualize stock market data and Indian Premier League (IPL) data interactively. The project leverages Streamlit, Pandas, and Plotly to create an engaging and informative user experience.
 
-Features
+#Features
 Stock Market Data Visualization
 
 Interactive line charts for stock prices
